@@ -1,8 +1,8 @@
 # github-theme
-My Stylus GitHub Theme (dark-red version)
+My Stylus GitHub Theme (dark-red & blue version)
 
 <details>
-   <summary>Preview <b>stylus-2020-12-02.json</b></summary>
+   <summary>Preview</summary>
   
 ![a1](https://i.imgur.com/mX0FBh7.png)
 ![a2](https://i.imgur.com/gPXiSi0.png)
